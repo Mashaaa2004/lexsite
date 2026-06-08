@@ -1,0 +1,6 @@
+{
+  "name": "LexGlobal AI - Legal Assistant",
+  "description": "An international AI legal consultant with dedicated expert knowledge and tools for Uzbekistan legislation as well as global laws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
